@@ -10,7 +10,7 @@ Print and iterate within a circular economy, knowing the prints were not being t
 ### PET-Pulling Resources 
 - CNC Kitchen Video: https://www.youtube.com/watch?v=N06FWr06iOI
 - Bottle expansion (the process this machine has automated): https://www.youtube.com/watch?v=xf8QNsDyYhE
-- Bottle Cutting (the hardest part to automate so far
+- Bottle Cutting (the hardest part to automate so far)
 ### Printables: 
 - Recreator 3D: https://www.printables.com/model/179820-the-recreator-3d-mk5kit-ender3-diy-3d-printer-fila
 - funtion.3d: https://www.printables.com/@function3d
@@ -20,23 +20,23 @@ Print and iterate within a circular economy, knowing the prints were not being t
 - Polyformer: https://discord.gg/QkczNAeE
 
 ## Electronics
-- [Ramps 1.4 ]([url](https://www.amazon.com/dp/B06XZ46PDJ?ref=ppx_yo2ov_dt_b_fed_asin_title))
-- [Arduino Mega 2560]([url](https://www.amazon.com/dp/B01H4ZLZLQ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1))
-- [DRV8825 Motor Controllers]([url](https://a.co/d/f2ghQG8))
+- [Ramps 1.4](https://www.amazon.com/dp/B06XZ46PDJ?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [Arduino Mega 2560](https://www.amazon.com/dp/B01H4ZLZLQ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+- [DRV8825 Motor Controllers](https://a.co/d/f2ghQG8)
 
-- [2x Nema 17 (1 from ender 3, one from amazon)]([url](https://a.co/d/fNGfjUE))
-- [1x MG996R Servo]([url](https://www.amazon.com/dp/B0BYD9M1P3?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1))
-- [12V 30A Psupply (probly dont need more than 5 amps really)]([url](https://a.co/d/8u2QN4w))
-- [1x DC motor air compressor (took apart from portable car tire pump)]([url](https://www.amazon.com/gp/product/B0CYZG5MW8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1))
-- [1x Air pressure sensor]([url](https://www.amazon.com/dp/B08DG8Q18H?ref=ppx_yo2ov_dt_b_fed_asin_title))
+- [2x Nema 17 (1 from ender 3, one from amazon)](https://a.co/d/fNGfjUE)
+- [1x MG996R Servo](https://www.amazon.com/dp/B0BYD9M1P3?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+- [12V 30A Psupply (probly dont need more than 5 amps really)](https://a.co/d/8u2QN4w)
+- [1x DC motor air compressor (took apart from portable car tire pump)](https://www.amazon.com/gp/product/B0CYZG5MW8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [1x Air pressure sensor](https://www.amazon.com/dp/B08DG8Q18H?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-- [20x4 LCD with I2C module]([url](https://www.amazon.com/dp/B0BXKKBZND?ref=ppx_yo2ov_dt_b_fed_asin_title))
-- [1x Rotary encoder]([url](https://www.amazon.com/dp/B07F26CT6B?ref=ppx_yo2ov_dt_b_fed_asin_title))
+- [20x4 LCD with I2C module](https://www.amazon.com/dp/B0BXKKBZND?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [1x Rotary encoder](https://www.amazon.com/dp/B07F26CT6B?ref=ppx_yo2ov_dt_b_fed_asin_title)
 - 2x limit switches (from Ender3) 
-- [1x Pancacke Stepper]([url](https://www.amazon.com/dp/B0B93PNYCP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1))
-- [1x 12v WINSINN 50mm 5015 Blower Fan]([url](https://www.amazon.com/gp/product/B079BMX2S6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1))
-- [1x 12v Heating element]([url](https://www.amazon.com/gp/product/B07YFBRKZ4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1))
-- [1x thermistor ]([url]https://a.co/d/8IGVhMa)
+- [1x Pancacke Stepper](https://www.amazon.com/dp/B0B93PNYCP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+- [1x 12v WINSINN 50mm 5015 Blower Fan](https://www.amazon.com/gp/product/B079BMX2S6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+- [1x 12v Heating element](https://www.amazon.com/gp/product/B07YFBRKZ4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [1x thermistor](https://a.co/d/8IGVhMa)
 
 
 ### Code
