@@ -41,6 +41,9 @@ Print and iterate within a circular economy, knowing the prints were not being t
 
 ### Code
 
+![image](https://github.com/user-attachments/assets/e06c1896-667e-4401-8044-71455b94d34b)
+
+
 ![image](https://github.com/user-attachments/assets/6c8c6a1f-3834-42d0-b46f-9de8d0ae8431)
 
 ![image](https://github.com/user-attachments/assets/6f958cd6-d4ad-4a85-b3c5-b9d49d7c2cd4)
