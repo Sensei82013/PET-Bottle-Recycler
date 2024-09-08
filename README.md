@@ -7,6 +7,22 @@ A
 I thought, what if I made my prototypes fully recyclable instead? 
 Print and iterate within a circular economy, knowing the prints were not being totally wasted sitting on a landfill for hundreds of yearsm, waiting for nothing to happen.
 
+
+
+<p float="left">
+  <img src= https://github.com/user-attachments/assets/6c8c6a1f-3834-42d0-b46f-9de8d0ae8431 width=30% height=10%>
+  <img src= https://github.com/user-attachments/assets/6f958cd6-d4ad-4a85-b3c5-b9d49d7c2cd4 width=30% height=10%>  
+  <img src= https://github.com/user-attachments/assets/d2438c79-360a-4039-8ee3-c3c59162be0f width=30% height=10%>
+</p>
+
+
+<img src= https://github.com/user-attachments/assets/b09f10bd-e775-4755-91bb-31cdcb6c4958 width=50% height=50%>
+
+
+
+
+
+
 ### PET-Pulling Resources 
 - [CNC Kitchen Video](https://www.youtube.com/watch?v=N06FWr06iOI)
 - [Bottle expansion (the process this machine has automated)](https://www.youtube.com/watch?v=xf8QNsDyYhE)
@@ -20,21 +36,21 @@ Print and iterate within a circular economy, knowing the prints were not being t
 - [Recreator 3D](https://discord.gg/jwyxvpSK)
 - [Polyformer](https://discord.gg/QkczNAeE)
 
-## BOM
+
+
+## Project
+
+![image](https://github.com/user-attachments/assets/0b298aef-ef0b-4423-8580-c0aeb62d5d77)
+
+[INSERT VIDEO HERE]
+
+
+### BOM
 [Google Sheets](https://docs.google.com/spreadsheets/d/1O_pJlcNmvoCJK8XPin97Yl5kds8EvCdPII7h_A2TWiM/edit?gid=0#gid=0)
 
 
-### Code
 
-![image](https://github.com/user-attachments/assets/e06c1896-667e-4401-8044-71455b94d34b)
 
-![image](https://github.com/user-attachments/assets/6c8c6a1f-3834-42d0-b46f-9de8d0ae8431)
-
-![image](https://github.com/user-attachments/assets/6f958cd6-d4ad-4a85-b3c5-b9d49d7c2cd4)
-
-![image](https://github.com/user-attachments/assets/d2438c79-360a-4039-8ee3-c3c59162be0f)
-
-![image](https://github.com/user-attachments/assets/418dd546-9938-40d5-bde0-82aaaecf22d5)
 
 
 
