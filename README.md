@@ -36,7 +36,8 @@ Print and iterate within a circular economy, knowing the prints were not being t
 __________________________________________
 ### CAD 
 
-![image](https://github.com/user-attachments/assets/0b298aef-ef0b-4423-8580-c0aeb62d5d77)
+![image](https://github.com/user-attachments/assets/b1b38185-09ed-4b99-ba7d-f9f05a01c884)
+
 
 [INSERT VIDEO HERE]
 
