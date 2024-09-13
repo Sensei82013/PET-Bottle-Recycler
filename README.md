@@ -5,11 +5,10 @@ This project is meant to automate the teadious PET-bottle -> 3D printer filament
 
 
 ## Background 
-  I'm personally not very found of single-use plastics, but fell inlove with rapid prototyping the moment I got my first 3D printer. Watching your designs being brought to life in a matter of minutes is highly-fulfilling and an incredible time saver. This fulfilling process became a bit adictive and worriesome however, when all the small amounts of wasted/unusable plastic prints started to stack up in a shoe box. Even though the PLA is "biodegradable" it still takes at least 80 years and perfect soil/environmental conditions for it to go away. Otherwise, if sent to landfil, it still behaves like any other plastic, slowly degrading in a 400 year timeframe. 
+  I'm personally not very fond of single-use plastics, but fell inlove with rapid prototyping the moment I got my first 3D printer. Watching your designs being brought to life in a matter of minutes is highly-fulfilling and an incredible time saver. This fulfilling process became a bit adictive and worriesome however, when all the small amounts of wasted/unusable plastic prints started to stack up in a shoe box. Even though the PLA is "biodegradable" it still takes at least 80 years and perfect soil/environmental conditions for it to go away. Otherwise, if sent to landfil, it still behaves like any other plastic, slowly degrading in a 400 year timeframe. 
 I thought, what if I made my prototypes fully recyclable instead? 
 Print and iterate within a circular economy, knowing the prints were not being totally wasted sitting on a landfill for hundreds of yearsm, waiting for nothing to happen.
 
-// Print images: 
 <p float="left">
   <img src= https://github.com/user-attachments/assets/6c8c6a1f-3834-42d0-b46f-9de8d0ae8431 width=30% height=10%>
   <img src= https://github.com/user-attachments/assets/6f958cd6-d4ad-4a85-b3c5-b9d49d7c2cd4 width=30% height=10%>  
@@ -36,7 +35,8 @@ Print and iterate within a circular economy, knowing the prints were not being t
 __________________________________________
 ### CAD 
 
-![image](https://github.com/user-attachments/assets/b1b38185-09ed-4b99-ba7d-f9f05a01c884)
+![image](https://github.com/user-attachments/assets/d678b1ed-fc41-45fd-9aea-7c315fb5ac38)
+
 
 
 [INSERT VIDEO HERE]
