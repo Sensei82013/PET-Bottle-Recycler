@@ -1,6 +1,6 @@
 # PET-Bottle-Recycler
 <p align="center">
-This project is meant to automate the teadious PET-bottle -> 3D printer filament recycling process, commonly done via pultrusion.
+This project is meant to automate teadious aspects of the PET-bottle to-> 3D printer filament recycling process, commonly done via pultrusion.
 </p>
 
 
@@ -35,7 +35,8 @@ Print and iterate within a circular economy, knowing the prints were not being t
 __________________________________________
 ### CAD 
 
-![image](https://github.com/user-attachments/assets/d678b1ed-fc41-45fd-9aea-7c315fb5ac38)
+![image](https://github.com/user-attachments/assets/8637a0ce-67e1-45bc-95e3-14f4144887b1)
+
 
 
 
